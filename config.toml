@@ -1,4 +1,4 @@
-baseURL = 'https://dannylee8366.github.io/yeping/'
+baseURL = 'https://dainty-taffy-2bf0cf.netlify.app'
 
     # Change the default theme to be use when building the site with Hugo
     theme = "LoveIt"
