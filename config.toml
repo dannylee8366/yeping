@@ -4,7 +4,7 @@ baseURL = 'https://dainty-taffy-2bf0cf.netlify.app'
     theme = "LoveIt"
 
     # website title
-    title = "Yeping's Blog"
+    title = "DannyLee's Blog"
 
     # language code ["en", "zh-CN", "fr", "pl", ...]
     languageCode = "zh-CN"
@@ -176,7 +176,7 @@ baseURL = 'https://dainty-taffy-2bf0cf.netlify.app'
               # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
               title = ""
               # subtitle shown in home page (HTML format is supported)
-              subtitle = "Yeping's Blog"
+              subtitle = "DannyLee's Blog"
               # whether to use typeit animation for subtitle
               typeit = true
               # whether to show social links
@@ -196,9 +196,8 @@ baseURL = 'https://dainty-taffy-2bf0cf.netlify.app'
           [params.social]
             GitHub = "xxxx"
             Linkedin = ""
-            Twitter = "xxxx"
-            Instagram = "xxxx"
-            Facebook = "xxxx"
+            Twitter = "https://twitter.com/Danny1860"
+            Wechat = ""
             Telegram = "xxxx"
             Medium = ""
             Gitlab = ""
@@ -337,7 +336,7 @@ baseURL = 'https://dainty-taffy-2bf0cf.netlify.app'
             [params.page.share]
               enable = true
               Twitter = true
-              Facebook = true
+              Facebook = false
               Linkedin = false
               Whatsapp = false
               Pinterest = false

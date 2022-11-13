@@ -45,3 +45,11 @@ draft: false
 可能对于下一个decade来说，AI会改变很多行业，包括传统行业，会带来很多改变，也会带来很多机遇。
 
 对于个人来说，拥抱新趋势是明智的选择，年轻人找工作优先选择AI驱动的公司，成长机会会更大，中年人要学习AI技术，使用AI驱动的技术，比如学习用抖音，比如学会用stable diffusion，不论掌握哪种AI工具，未来都会成为个人事业的一个重要的加速器，有无这个工具，如同骑自行车和开汽车的区别。
+
+<script src="https://utteranc.es/client.js"
+        repo="dannylee8366/yeping.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
